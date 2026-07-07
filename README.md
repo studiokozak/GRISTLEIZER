@@ -10,6 +10,14 @@ LFO-driven dirty tremolo/filter, built to add grit and movement to pretty much a
 
 ---
 
+<p align="center">
+  <strong>
+    <a href="https://github.com/studiokozak/GRISTLEIZER/releases/latest">
+      Download Latest Release
+    </a>
+  </strong>
+</p>
+
 ## What is it?
 
 The name comes from a very particular piece of gear: **the Gristleizer**, a homemade effects unit built by Chris Carter of Throbbing Gristle in the late 1970s, based on a circuit designed by a then-teenage Roy Gwinn and published in *Practical Electronics* magazine. It combined an LFO with a switchable VCA or VCF stage, and Throbbing Gristle used it on just about everything — guitars, synths, even vocals — to get sounds ranging from pulsing tremolo to metallic ring-mod-like textures. It became one of the defining tools of early industrial music.
